@@ -1,5 +1,4 @@
-# Echamed
-__Vente du matériel médical__
+# Echamed : Vente des matériels médicaux
 
 ## Objectif
 
@@ -21,12 +20,11 @@ L'application inclut aussi un back-office : c'est un espace administrateur perme
 ### A l'internaute de :
 - __Consulter les produits__ : Chaque produit présent sur le site sera présenté en détail sur sa propre page représentant sa fiche technique. On y trouvera en particulier une image que l'internaute pourra agrandir, une description du produit, son prix et sa disponibilité.
 
-- __Chercher un produit__ : l'internaute a la possibilité de chercher un produit par son code ou son nom. La résultat du recherche sera disponible sur une page particulière.
+- __Chercher un produit__ : l'internaute a la possibilité de chercher un produit par son code ou son nom. Le résultat de la recherche sera disponible sur une page particulière.
 
 - __Demande devis et contact__ : Chaque utilisateur de l'application doit accèder facilement à un formulaire permettant la demande d'un devis ou contacte la société.
 
-- __Gérer panier__ : Lorsque l'internaute est intéressé par un produit, il peut l'enregistrer
-dans un panier virtuel. Il doit pouvoir ensuite à tout moment ajouter, supprimer ou encore modifier les quantités avant de passer la commande. Le panier ne sera pas sauvegardé dans la base de données, sa durée de vie n'excèdera pas celle de la visite de l'utilisateur.
+- __Gérer panier__ : Lorsque l'internaute est intéressé par un produit, il peut l'enregistrer dans un panier virtuel. Il doit pouvoir ensuite à tout moment ajouter, supprimer ou encore modifier les quantités avant de passer la commande. Le panier ne sera pas sauvegardé dans la base de données, sa durée de vie n'excèdera pas celle de la visite de l'utilisateur.
 
 ### Au client de :
 - __Gérer ses commandes__ : À tout moment, le client doit pouvoir accéder au formulaire du bon de commande, dans lequel il saisit ses coordonnées et les informations nécessaires pour obtenir sa facture. Le client devra pouvoir ensuite suivre ses commandes récentes.
@@ -40,7 +38,7 @@ dans un panier virtuel. Il doit pouvoir ensuite à tout moment ajouter, supprime
 ### A l'administrateur de :
 - __Gérer le site__ : L'administrateur peut gérer le site dans la partie Backend
 - __Consulter contact et demane devis__ : L'administrateur peut consulter et rependre au messages et demande devis et contact reçue.
-- __Gérer les utilisateur__ : L'administrateur peut gérer les comptes des membres.
+- __Gérer les utilisateurs__ : L'administrateur peut gérer les comptes des membres.
 - __Gérer les partenaires__ : L'administrateur peut gérer les partenaires de la société.
 - __Consulter les commandes__ : L'administrateur peut consulter et manipuler les commandes effectuées.
 
