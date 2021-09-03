@@ -8,7 +8,7 @@ Le but de ce projet est de proposer une solution web pour l'entreprise Echamed a
 
 Dans le cadre de la validation du projet de fin de formation 1 ère année, vous êtes amené à réaliser une application web pour l'entreprise Echamed, spécialisée dans la vente et la distribution les matériels médicaux et équipenments Cliniques et Hôpitaux.
 
-L'objectif d'Echamed est d'automatiser le système de vente d'une manière qui permet de cibler un grand nombre de clients au Maroc et d'augmenter le chiffre annuel des ventes, du coup la présentation des produits seront à travers une interface web et mobile qui permet de les lister selon leurs catégories et leurs types, mais elle offre également la possibilité de demande de devis et de contact par formulaire ou par Mail.
+L'objectif d'Echamed est d'automatiser le système de vente d'une manière qui permet de cibler un grand nombre de clients au Maroc et d'augmenter le chiffre d'affaire, du coup la présentation des produits seront à travers une interface web et mobile qui permet de les lister selon leurs catégories et leurs types, mais elle offre également la possibilité de demande de devis et de contact par formulaire ou par Mail.
 
 L'application inclut aussi un back-office : c'est un espace administrateur permettant la gestion de pages, de catégories et de produits, leurs disponibilités ainsi les clients.
 
