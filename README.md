@@ -59,5 +59,10 @@ Les maquettes de notre application sont les suivantes :
 - Prototype de l'application (en respectant les maquettes)
 - Lien Github contenant le code source de l'application
 
-
+## Environnement 
+- HTML
+- CSS 3, Sass, less, Bootstrap...[Framework Facultatif]
+- Javascript, VueJS, Axios, Ajax, Jquery...[Framework Facultatif]
+- MYSQL 
+- PHP 8 (OOP, MVC), Laravel [Framework Facultatif]
 
